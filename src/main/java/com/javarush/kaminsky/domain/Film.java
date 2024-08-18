@@ -159,7 +159,7 @@ public class Film {
         return specialFetures;
     }
 
-    public void setSpecialFetures(Set<Rating> specialFetures) {
+    public void setSpecialFetures(String specialFetures) {
         this.specialFetures = specialFetures;
     }
 
